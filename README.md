@@ -23,4 +23,4 @@ The purpose of this assignment is to improve my Python programming skills and pr
 
 ## File
 
-- Assignment3.pdf – My completed exercises and their outputs.
+- Assignment3.ipynb – My completed Python exercises, including source code and outputs.
